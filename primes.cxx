@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <vector>
+/* This program demonstates the meatiest chaper 38 exercises printing prime numbers using classes and vectors. */
 
 /*
  * Class to generate prime numbers.
